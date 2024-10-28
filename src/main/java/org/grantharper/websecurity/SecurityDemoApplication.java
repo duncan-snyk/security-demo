@@ -1,3 +1,6 @@
+/**
+* Spring Boot main class
+**/
 package org.grantharper.websecurity;
 
 import org.springframework.boot.SpringApplication;
